@@ -71,7 +71,7 @@ The market exhibits **moderate fragmentation with polarized concentration**: ent
 
 ## ⚡ Open-Source GitHub Projects
 
-*Ranked in descending order by GitHub stargazers count. Each star badge links directly to the project's stargazers community.*
+*Ranked in descending order by GitHub stargazers count. Each Stars_Badge links directly to the project's stargazers community.*
 
 - **[OpenCut (OpenCut-app/OpenCut)](https://github.com/OpenCut-app/OpenCut)** [![Stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)  
   Free, open-source web and desktop video editor engineered as a privacy-focused alternative to CapCut with multi-track timelines and local rendering.
@@ -183,7 +183,7 @@ Contributions are warmly welcomed! To suggest a new tool, update pricing, or enh
 3. **Ensure strict criteria**:
    - Provide direct links to official websites or GitHub repositories.
    - For SaaS products, include exact starting pricing and exact free tier/trial limits.
-   - For open-source tools, include the standard shields.io social star badge linking to `/stargazers`.
+   - For open-source tools, include the standard shields.io social Stars_Badge linking to `/stargazers`.
 4. **Commit your changes**: `git commit -m "Add <Tool Name> to video editing list"`.
 5. **Open a Pull Request** with a concise summary of the addition.
 
